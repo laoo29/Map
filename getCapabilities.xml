@@ -177,7 +177,7 @@
 				<Title>map_lines</Title>
 				<Abstract>GH:map_lines ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/laoo29/Map/releases/download/Map_Download/map_lines.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/laoo29/Map/releases/download/Map_Download/map_lines.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="123.03161789900003" miny="7.9624898417620145" maxx="123.23236511722455" maxy="8.32195021192773"></LatLonBoundingBox>
